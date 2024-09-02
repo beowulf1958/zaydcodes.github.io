@@ -12,7 +12,7 @@ body {
 .container {
     background-color: #fff;
     width: 310px;
-    height: 60vh;
+    /* height: 60vh; */
     border-radius: 20px;
     display: flex;
     flex-direction: column;
@@ -29,7 +29,7 @@ body {
 }
 
 img {
-    height: 40vh;
+    /* height: 40vh; */
     width: 300px;
     margin-bottom: 15px;
     border-radius: 10px;
